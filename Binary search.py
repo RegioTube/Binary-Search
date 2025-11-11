@@ -22,7 +22,8 @@ while (found == False and first<=last):
     x = x + 1
 if (found):
     print("Data found!")
-    print("Operation count:" x)
+    print("Operation count:", x)
 else:
     print("No Object Found!")
+
 
